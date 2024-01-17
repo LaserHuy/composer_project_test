@@ -1,0 +1,10 @@
+{
+    "name": "laser/quete-composer",
+    "description": "Project composer quete",
+    "autoload": {
+        "psr-4": {
+            "App\\Wcs\\": "src/Wcs/"
+        }
+    },
+    "require": {}
+}
